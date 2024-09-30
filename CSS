@@ -1,0 +1,212 @@
+
+
+.principal{
+background: #CCCCCC;
+padding: 30px;
+
+}
+
+
+
+
+.tituloprincipal{
+    background: #778899;
+    padding-left: 50px;
+
+}
+
+
+.banner{
+    width: 100%;
+
+}
+
+.logo{
+    width: 20%;
+    position: relative; 
+    right: -600px;
+
+}
+
+.imagem1{
+    width: 50%;
+    transform: translateY(-5px);
+    position: relative; 
+    left: 70px; 
+    
+}
+
+
+.titulo{
+    font-style: italic;
+    width: 60%;
+    font-size: 35px;
+    transform: translateY(-400px);
+    position: relative; 
+    right: -930px; 
+     
+}
+
+.texto-01{
+    width: 60%;
+    font-size: 20px;
+    transform: translateY(-400px);
+    position: relative; 
+    right: -930px; 
+     
+}
+
+.pizza1{
+
+    width: 50%;
+    transform: translateY(-300px);
+
+}
+
+.pizza2{
+
+    width: 50%;
+    position: relative; 
+    right: -930px; 
+    transform: translateY(-1056px);
+    position: relative; 
+    left: 750px;
+
+}
+
+.cardapio{
+
+    width: 28%;
+    position: relative; 
+    right: -930px; 
+    transform: translateY(-1055px);
+    position: relative; 
+    left: -216px;
+
+}
+
+.ambiente{
+
+    transform: translateY(-1055px);
+    position: relative; 
+    left: 542px;
+
+}
+
+
+.titulo2{
+    font-style: italic;
+    width: 60%;
+    font-size: 35px;
+    transform: translateY(-1500px);
+    position: relative; 
+    right: -50px; 
+     
+}
+
+.texto-02{
+    width: 60%;
+    font-size: 20px;
+    transform: translateY(-1500px);
+    position: relative; 
+    right: -50px; 
+     
+}
+
+
+.informacoes{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 110%;
+    transform: translateY(-1680px);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+.informacoes-titulo{
+    font-style: italic;
+    font-size: 150%;
+    transform: translateY(-1680px);
+    position: relative; 
+    right: -20px;
+
+}
+
+.fundoformulario{
+    transform: translateY(-1650px);
+    position: relative; 
+    right: 27px;
+
+
+}
+
+.formulario{
+    transform: translateY(-1950px);
+    position: relative; 
+    right: -32px;
+
+
+}
+
+
+
+.fundotabela{
+    width: 55%;
+    transform: translateY(-1800px);
+    position: relative; 
+    right: -370px;
+}
+
+.h4titulotabela{
+
+    font-size: 30px ;
+    transform: translateY(-1950px);
+    position: relative; 
+    right: -600px;
+    transform: translateY(-2400px);
+    color: whitesmoke;
+    
+    }
+    
+    .h4tabela{
+    position: relative; 
+    right: -378px;
+    transform: translateY(-2412px);
+    font-size: 40px ;
+    padding-left: 0px;
+    margin-top: 30 ;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 800px ;
+    border:  5px solid rgb(0, 0, 0);
+    color: rgb(0, 255, 242);
+    
+    }
+    td{
+    color: rgb(221, 210, 210);
+    border: 2px solid rgb(0, 0, 0);
+    width: 400px ;
+    padding: 6px;
+    }
+    
+    tr{
+    
+    background-color: #4c0414;
+    
+    }
+
+.link {
+    transform: translateY(-2250px);
+    position: relative; 
+    right: -378px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.instagram {
+    transform: translateY(-2335px);
+    position: relative; 
+    right: -1155px;
+    width: 45px
+    
+}
